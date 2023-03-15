@@ -1,3 +1,7 @@
 Primer Cambio local-Creación de Archivo
 Segundo Cambio desde Repositorio Remoto
+<<<<<<< HEAD
 Segundo Cambio LOCAL
+=======
+Segundo Cambio Remoto
+>>>>>>> 4b36ef4eece00b8704dfa01f6283b31ba3b96b72
